@@ -14,8 +14,8 @@ MP3 Converter is a simple and efficient tool for converting audio files to MP3 f
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/mp3-converter.git
-    cd mp3-converter
+    git clone https://github.com/DanielKoklev/youtube-mp3-converter.git
+    cd youtube-mp3-converter
     ```
 
 ## Usage
