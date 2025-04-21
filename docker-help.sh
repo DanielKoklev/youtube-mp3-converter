@@ -9,7 +9,7 @@ run_container() {
 }
 
 copy_output() {
-    docker cp mp3-converter-container:/output ./output
+    docker cp mp3-converter-container:/app/output ./output
 }
 
 # Example usage
